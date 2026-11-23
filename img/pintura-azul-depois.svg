@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500"><defs><linearGradient id="ppinturaazulb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4169ae"/><stop offset=".5" stop-color="#1c4790"/><stop offset="1" stop-color="#0c2040"/></linearGradient>
+ <linearGradient id="sxpinturaazulb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><filter id="pdpinturaazulb"><feColorMatrix type="saturate" values="1.15"/></filter></defs>
+ <g filter="url(#pdpinturaazulb)"><rect width="800" height="500" fill="url(#ppinturaazulb)"/>
+ <g transform="rotate(-14 400 250)"><rect x="-100" y="150" width="1000" height="34" fill="url(#sxpinturaazulb)"/><rect x="-100" y="205" width="1000" height="12" fill="url(#sxpinturaazulb)" opacity=".6"/><rect x="-100" y="330" width="1000" height="22" fill="url(#sxpinturaazulb)" opacity=".45"/></g>
+ </g><text x="30" y="470" font-family="sans-serif" font-size="16" fill="#fff" opacity="0">.</text></svg>

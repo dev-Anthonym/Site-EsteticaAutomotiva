@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500"><defs>
+ <linearGradient id="hbfarolsuvb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b6f75"/><stop offset="1" stop-color="#23262b"/></linearGradient>
+ <radialGradient id="lensfarolsuvb" cx=".45" cy=".4"><stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset=".7" stop-color="#9fc6e6" stop-opacity="0.18"/><stop offset="1" stop-color="#3b5a75" stop-opacity="0.3"/></radialGradient>
+ <radialGradient id="ledfarolsuvb"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#d9f1ff"/><stop offset="1" stop-color="#5fb4ff" stop-opacity="0"/></radialGradient>
+ <filter id="fogfarolsuvb"><feTurbulence type="fractalNoise" baseFrequency=".02 .05" numOctaves="3" seed="4"/><feColorMatrix values="0 0 0 0 .82 0 0 0 0 .7 0 0 0 0 .38 0 0 0 1.4 -.35"/></filter>
+ <clipPath id="lcfarolsuvb"><path d="M120,170 Q160,95 330,90 L640,96 Q720,104 704,190 Q690,300 560,360 L210,372 Q110,370 112,280 Z"/></clipPath></defs>
+ <rect width="800" height="500" fill="url(#hbfarolsuvb)"/><path d="M0,400 Q400,330 800,420 L800,500 L0,500 Z" fill="#2e3239"/>
+ <path d="M120,170 Q160,95 330,90 L640,96 Q720,104 704,190 Q690,300 560,360 L210,372 Q110,370 112,280 Z" fill="#0b0d10" stroke="#9aa6b2" stroke-width="5"/>
+ <g clip-path="url(#lcfarolsuvb)"><circle cx="300" cy="232" r="72" fill="#1a1e24" stroke="#c9d3dc" stroke-width="6"/><circle cx="300" cy="232" r="38" fill="url(#ledfarolsuvb)"/>
+ <circle cx="500" cy="232" r="56" fill="#1a1e24" stroke="#c9d3dc" stroke-width="5"/><circle cx="500" cy="232" r="30" fill="url(#ledfarolsuvb)"/>
+ <path d="M170,320 Q400,292 640,300" stroke="#e6f6ff" stroke-width="9" stroke-linecap="round" fill="none"/>
+ <rect width="800" height="500" fill="url(#lensfarolsuvb)"/><path d="M170,140 Q330,108 520,118" stroke="#fff" stroke-opacity=".7" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M200,170 Q300,150 380,152" stroke="#fff" stroke-opacity=".35" stroke-width="5" fill="none" stroke-linecap="round"/></g></svg>
